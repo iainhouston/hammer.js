@@ -1,6 +1,6 @@
 {
   "name": "iainhouston/hammer.js",
-  "extra": .{
+  "extra": {
     "installer-name": "hammerjs"
   },
   "description": "Misfits hammerjs menu  javascript as a Drupal library.",
