@@ -1,5 +1,5 @@
 {
-  "name": "iainhouston/hammerjs",
+  "name": "iainhouston/hammer.js",
   "extra": .{
     "installer-name": "hammerjs"
   },
